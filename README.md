@@ -7,8 +7,9 @@ The tool can be found in [post #7](https://forum.antichat.ru/threads/426200/#pos
 
 
 # Example usage
- $ ./zyxel_scramble.py decode QP/a3C96cTqJxMboZoZojIZB
- gdata
- 
- $ ./zyxel_scramble.py decode 57QZ+pHpr1U563wnqus9ZIKM
- z4c4StLAa6
+```bash
+$ ./zyxel_scramble.py decode QP/a3C96cTqJxMboZoZojIZB
+gdata 
+$ ./zyxel_scramble.py decode 57QZ+pHpr1U563wnqus9ZIKM
+z4c4StLAa6
+```
